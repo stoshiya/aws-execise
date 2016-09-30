@@ -16,5 +16,7 @@
  - 画像の配信をアプリケーションサーバから分離
  - マルチAZにEC2インスタンスを配備
  - オートスケーリング対応
+ - AMIを使わずにEC2インスタンスのセットアップをUserDateに記述する
  - CloudFormationテンプレート化
  - Elastic BeansTalkでのデプロイ
+
